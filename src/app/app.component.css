@@ -1,0 +1,31 @@
+.card 
+{
+  font-family: sans-serif;
+  width: 400px;
+  background: gray;
+}
+
+.title 
+{
+  font-size: 30px;
+  text-align: center;
+  Color: purple;
+}
+
+.card-image
+{
+  width: 100%;
+}
+
+.description-title 
+{
+  font-size: 24px;
+  text-align: center;
+  Color: Pink;
+}
+
+.description
+{
+  font-size: 18px;
+  Color: Pink;
+}
